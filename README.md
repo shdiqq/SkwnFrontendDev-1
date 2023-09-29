@@ -1,4 +1,4 @@
-# SkwnFrontendDev-1-Shadiq-Harwiz
+# SkwnFrontendDev-1
 TECHNICAL TEST - Frontend Developer (Intern) Sekawan MEDIA
 
 ## Cara Menjalankan Program
@@ -7,4 +7,4 @@ TECHNICAL TEST - Frontend Developer (Intern) Sekawan MEDIA
 2. Buka index.html di visual studio code, lalu open with live server
 
 ## Link Hosting
-https://shdiqq.github.io/SkwnFrontendDev-1-Shadiq-Harwiz/
+https://shdiqq.github.io/SkwnFrontendDev-1/
